@@ -1,0 +1,22 @@
+{
+
+  "scripts": {
+
+    "dev": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+
+  },
+
+  "devDependencies": {
+
+    "tailwindcss": "^3.3.2"
+
+  },
+
+  "dependencies": {
+
+    "daisyui": "^2.51.6"
+
+  }
+
+}
+
